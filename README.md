@@ -65,7 +65,7 @@ Model performance is evaluated using metrics like accuracy, precision, recall, a
 
 ## Results
 
-Our final deployed model achieves an accuracy of X% on the test data. This model is now ready for real-time predictions, enabling the business to identify customers at risk of churning and take appropriate actions to retain them.
+Our final deployed model achieves an accuracy of 55% on the test data. This model is now ready for real-time predictions, enabling the business to identify customers at risk of churning and take appropriate actions to retain them.
 
 ## Contributing
 
